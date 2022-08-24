@@ -1,0 +1,4 @@
+NAME       READY   STATUS    RESTARTS   AGE
+udacity4   1/1     Running   0          60s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
